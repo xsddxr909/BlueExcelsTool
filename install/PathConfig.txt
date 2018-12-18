@@ -1,0 +1,1 @@
+Z:\creatorPJ\BlueBattle\assets\script\data,Z:\creatorPJ\BlueBattle\xls,Z:\creatorPJ\Tools\OpenExcel_ToLua\xls

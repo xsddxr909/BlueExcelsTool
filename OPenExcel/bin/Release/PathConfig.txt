@@ -1,0 +1,1 @@
+E:\XslgProject\project\Demo\Assets\Engine,,,E:\XslgProject\project\Demo\Assets\ResRoot\Data\CFGData,,E:\XslgProject\design\Table,E:\XslgProject\project\Demo\Assets\ToLua\Lua\GameData
